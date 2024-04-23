@@ -396,3 +396,14 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+Lab8WinForms.sln
+Lab8WinForms/App.config
+Lab8WinForms/Form1.Designer.cs
+Lab8WinForms/Form1.resx
+Lab8WinForms/Lab8WinForms.csproj
+Lab8WinForms/packages.config
+Lab8WinForms/Properties/AssemblyInfo.cs
+Lab8WinForms/Properties/Resources.Designer.cs
+Lab8WinForms/Properties/Resources.resx
+Lab8WinForms/Properties/Settings.Designer.cs
+Lab8WinForms/Properties/Settings.settings
