@@ -407,3 +407,6 @@ Lab8WinForms/Properties/Resources.Designer.cs
 Lab8WinForms/Properties/Resources.resx
 Lab8WinForms/Properties/Settings.Designer.cs
 Lab8WinForms/Properties/Settings.settings
+Lab8WinForms/Log.cs
+Lab8WinForms/Program.cs
+Lab8WinForms/Form1.cs
